@@ -1,0 +1,24 @@
+{
+  "packname": "My Sticker Pack",
+  "author": "My Bot",
+  "botName": "HUSSAIN X PROJECT🌠",
+  "botOwner": "𝗠𝗥_𝗛𝗨𝗦𝗦𝗔𝗜𝗡🌠❔🔰",
+  "ownerNumber": "8801334089349",
+  "PREFIX": ".",
+  "admin": [
+    "8801334089349",
+    ""
+  ],
+  "helpPic": "https://i.imgur.com/SX3suJc.gif",
+  "welPic": "https://i.imgur.com/ajUi1Ts.gif",
+  "PORT": "3000",
+  "msg": {
+    "modAdmin": false,
+    "ban": false
+  },
+  "imgurKey": "1e87dfc28df0bac",
+  "giphyApiKey": "qnl7ssQChTdPjsKta2Ax2LMaGXz303tq",
+  "commandMode": "public",
+  "description": "This is a bot for managing group commands and automating tasks.",
+  "version": "1.0.2"
+}
